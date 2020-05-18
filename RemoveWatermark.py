@@ -1,7 +1,7 @@
 #coding:utf-8
 import os
 import os.path
-import Image
+from PIL import Image
 
 outputFormat = '.png'
 
